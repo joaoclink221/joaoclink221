@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou me formando para me tornar dev full-stack
-- 🌱 TypeSript
+- 🌱 Estudando TypeSript
 - 📫 Contate-me no email: joaoclink221@gmail.com
 - 😄 Ele/dele
 - ⚡ Pretendo me tornar um dev back-end utilizando Java/Kotlin
